@@ -1,8 +1,6 @@
 # [glam](https://startbootstrap.com/theme/clean-blog/)
 
-[glam](https://startbootstrap.com/theme/clean-blog/) is a aethetic blog [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
-
-## Preview
+[glam](https://startbootstrap.com/theme/clean-blog/) is a aethetic blog 
 
 [![glam Preview](https://assets.startbootstrap.com/img/screenshots/themes/clean-blog.png)](https://startbootstrap.github.io/startbootstrap-clean-blog/)
 
